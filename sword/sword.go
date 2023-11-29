@@ -3,11 +3,11 @@ package sword
 import (
 	"strings"
 
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/components"
-	"github.com/GoAdminGroup/go-admin/template/types"
-	"github.com/GoAdminGroup/themes/common"
-	"github.com/GoAdminGroup/themes/sword/resource"
+	adminTemplate "github.com/kamruljpi/go-admin/template"
+	"github.com/kamruljpi/go-admin/template/components"
+	"github.com/kamruljpi/go-admin/template/types"
+	"github.com/kamruljpi/themes/common"
+	"github.com/kamruljpi/themes/sword/resource"
 	"github.com/gobuffalo/packr/v2"
 )
 

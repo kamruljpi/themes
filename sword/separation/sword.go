@@ -3,12 +3,12 @@ package separation
 import (
 	"io/ioutil"
 
-	"github.com/GoAdminGroup/go-admin/modules/config"
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/components"
-	"github.com/GoAdminGroup/go-admin/template/types"
-	"github.com/GoAdminGroup/themes/common"
-	"github.com/GoAdminGroup/themes/sword/resource"
+	"github.com/kamruljpi/go-admin/modules/config"
+	adminTemplate "github.com/kamruljpi/go-admin/template"
+	"github.com/kamruljpi/go-admin/template/components"
+	"github.com/kamruljpi/go-admin/template/types"
+	"github.com/kamruljpi/themes/common"
+	"github.com/kamruljpi/themes/sword/resource"
 )
 
 type Theme struct {
